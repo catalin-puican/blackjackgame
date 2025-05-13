@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D69422-EBD3-4281-A958-44EDF99E8319}|OneMoreGame.csproj|c:\\users\\catal\\desktop\\jocblackjack\\onemoregame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D69422-EBD3-4281-A958-44EDF99E8319}|OneMoreGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D69422-EBD3-4281-A958-44EDF99E8319}|OneMoreGame.csproj|C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D69422-EBD3-4281-A958-44EDF99E8319}|OneMoreGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D69422-EBD3-4281-A958-44EDF99E8319}|OneMoreGame.csproj|C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D69422-EBD3-4281-A958-44EDF99E8319}|OneMoreGame.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D69422-EBD3-4281-A958-44EDF99E8319}|OneMoreGame.csproj|C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D69422-EBD3-4281-A958-44EDF99E8319}|OneMoreGame.csproj|solutionrelative:deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D69422-EBD3-4281-A958-44EDF99E8319}|OneMoreGame.csproj|C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5D69422-EBD3-4281-A958-44EDF99E8319}|OneMoreGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D69422-EBD3-4281-A958-44EDF99E8319}|OneMoreGame.csproj|C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D69422-EBD3-4281-A958-44EDF99E8319}|OneMoreGame.csproj|solutionrelative:gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:40:24.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\GameLogic.cs",
+              "RelativeDocumentMoniker": "GameLogic.cs",
+              "ToolTip": "C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\GameLogic.cs",
+              "RelativeToolTip": "GameLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:45:24.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\Deck.cs",
+              "RelativeDocumentMoniker": "Deck.cs",
+              "ToolTip": "C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\Deck.cs",
+              "RelativeToolTip": "Deck.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:38:41.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\Card.cs",
+              "RelativeDocumentMoniker": "Card.cs",
+              "ToolTip": "C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\Card.cs",
+              "RelativeToolTip": "Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:29:54.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:52:14.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\catal\\Desktop\\JocBlackjack\\OneMoreGame\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:52:11.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
